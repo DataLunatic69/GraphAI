@@ -88,7 +88,7 @@ This project is licensed under the **GNU General Public License (GPL)**. See the
 
 
 Result:
-![Graph](results/image1.png)
+![Graph](example1.png)
 
 
 
