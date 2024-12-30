@@ -82,6 +82,14 @@ streamlit run app.py
 
 This project is licensed under the **GNU General Public License (GPL)**. See the [LICENSE](LICENSE) file for more details.
 
+## **Sample Results**
+
+### **Example **
+
+
+Result:
+![Graph](results/image1.png)
+
 
 
 
