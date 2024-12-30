@@ -84,11 +84,12 @@ This project is licensed under the **GNU General Public License (GPL)**. See the
 
 ## **Sample Results**
 
-### **Example **
+### **Examples**
 
 
 Result:
 ![Graph](example1.png)
+![Graph](example2.png)
 
 
 
